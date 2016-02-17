@@ -1,4 +1,4 @@
-# Introduction to Instrument control using Python
+# Introduction to Instrument Control Using Python
 
 This book briefly describes the hardware protocol and software interfaces that
 a modern IVI-specification-compatible instrument device should offer, and gives
