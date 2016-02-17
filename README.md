@@ -45,3 +45,11 @@ programming level interfacing could be achieved.
 
 This part would give concrete examples on how to interface instruments using the
 two different approaches mentioned above.
+
+## Python Version
+
+Principally, both python 2 and python 3 could be used in the stack, as all the
+packages involved in this book is 2 and 3 compatible.
+
+Due to most binary python distributions on Windows platform are python 2
+distributions, this book would cover its code in python 2 syntaxes.
