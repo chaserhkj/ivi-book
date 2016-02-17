@@ -10,4 +10,6 @@
     * [Mac](install/mac.md)
 * [Instrument Control](control/intro.md)
     * [Command-based](control/visa.md)
+        * [SCPI devices](control/scpi.md)
+        * [non-SCPI devices](control/tsp.md)
     * [Object-based](control/ivi.md)
