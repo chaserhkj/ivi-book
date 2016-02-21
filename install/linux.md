@@ -96,3 +96,33 @@ For connecting to devices through serial ports, `pyserial` must be installed.
     # pip install pyserial
 
 ## python-ivi
+
+If you wish to use `python-ivi` to achieve object-oriented programming level
+instrument control, install `python-ivi` package first.
+
+    # pip install python-ivi
+
+`python-ivi` relies on multiple communication library to talk to different
+instrument interfaces.
+
+### python-vxi11
+
+For communication using VXI-11 protocol over Ethernet/LAN interface, `python-ivi`
+package requires `python-vxi11` to run.
+
+    # pip install python-vxi11
+
+### python-usbtmc
+
+For communication using USBTMC protocol over USB interface, `python-usbtmc` must
+be installed.
+
+    # pip install python-usbtmc
+
+### python-gpib
+
+For communication over GPIB interface, `python-gpib` and corresponding Linux
+kernel space driver `linux-gpib` must be installed.
+
+Please follow the previous metioned guidelines to install `linux-gpib` and its
+python bindings.
