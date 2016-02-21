@@ -1,6 +1,7 @@
 # Non-SCPI Devices
 
-This part will contain the example to control an non-SCPI deivce.
+This part will contain the example to control an non-SCPI deivce. We would take
+Keithley's TSP commands as example non-SCPI command system.
 
 The example script would concentrate on operating a **Keithley's System
 SourceMeter 2600 Series SMU device** to **measure the I-V characteristic diagram of
